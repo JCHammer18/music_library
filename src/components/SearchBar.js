@@ -1,4 +1,3 @@
-
 import { useState } from 'react'
 
 function SearchBar(props) {
@@ -18,4 +17,3 @@ function SearchBar(props) {
 }
 
 export default SearchBar
-    
